@@ -16,3 +16,7 @@ This program reads through a text document one word at a time and then does the 
   - Removes any non-alphabetical  
 
 It then keeps track of each word using a Hashmap (key-value pairs) to keep track of each word and the number of time they appear.
+
+Please enter the location of the sample text in WordCount.java where the program passes the path to the file as a parameter
+
+  - File file = new File("Location");
