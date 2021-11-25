@@ -3,7 +3,10 @@ A word counting program which uses a binary search tree to printout a sorted lis
 
 
 
-https://user-images.githubusercontent.com/76058143/143472797-069a55c4-cba8-4792-9195-fee9e0f5c883.mp4
+
+
+https://user-images.githubusercontent.com/76058143/143472887-5e4f9b27-d77b-4a79-9528-f5ab6e95efb3.mp4
+
 
 
 
