@@ -1,4 +1,4 @@
-# Word-Counter-
+# Word-Counter
 A word counting program which uses a binary search tree to printout a sorted list of all the words in a text file and the number of times they appear. 
 
 
